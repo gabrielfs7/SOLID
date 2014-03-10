@@ -6,7 +6,7 @@ Para fazer com que a classe "Vehicle" não seja mais genérica, foi criada a int
 as funcões de veículo, porém com métodos adicionais que dizem respeito apenas a veículos automotivos. Desta forma temos 
 interfaces mais específicas que pode ser usadas por mais classes com comportamentos diferentes.
 */
-namespace Gsoares\SOLID\InterfaceSegregation;
+namespace GSoares\SOLID\InterfaceSegregation;
 
 interface Vehicle 
 {

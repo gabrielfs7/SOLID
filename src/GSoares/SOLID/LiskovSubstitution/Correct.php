@@ -9,7 +9,7 @@ devemos então criar um nível de abstração mais acima, contêndo somente os c
 Criamos a classe abstrata "Parallelogram" com o metodo "resize" que deve ser implementado pelas classes derivadas 
 para que as mesmas façam o redimencionamento de acordo com a regra de cada forma geométrica.
 */
-namespace Gsoares\SOLID\LiskovSubstitution;
+namespace GSoares\SOLID\LiskovSubstitution;
 
 abstract class Parallelogram 
 {

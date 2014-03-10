@@ -5,7 +5,7 @@
 No exemplo abaixo podemos perceber que o botao depende de uma classe concreta "Computer" e conhece detalhes de
 implementação da mesma violando o DIP que afirma que detalhes devem depender de abstrações.
 */
-namespace Gsoares\SOLID\DependencyInversion;
+namespace GSoares\SOLID\DependencyInversion;
 
 class Computer
 {

@@ -14,7 +14,7 @@ a classe teria "dois motivos" para ser alterada:
 E isso vai contra o princípio de "Single Responsability Principle" que afirma que: 
     “Uma classe deve ter somente uma razão para mudar”.
 */
-namespace Gsoares\SOLID\SingleResponsability;
+namespace GSoares\SOLID\SingleResponsability;
 
 class NoBalanceAvailableException extends \Exception {}
 

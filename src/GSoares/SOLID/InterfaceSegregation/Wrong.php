@@ -7,7 +7,7 @@ Sempre que eu implementar uma interface todos os métodos da mesma devem ser út
 algum método desnecessário sendo implementado, ou você está implementando a interface errada, ou a interface é genérica 
 demais e necessidade ser segregada, ou separada em interfaces mais específicas.
 */
-namespace Gsoares\SOLID\InterfaceSegregation;
+namespace GSoares\SOLID\InterfaceSegregation;
 
 interface Vehicle 
 {

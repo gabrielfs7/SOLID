@@ -7,7 +7,7 @@ porém no exemplo abaixo o método "drive" da classe "Driver" precisará ser alt
 tipo de veículo. Ou seja, ao adicionar um novo comportamento o código existente terá que ser alterado, indo totalmente 
 contra o princípio do "Open/Closed"
 */
-namespace Gsoares\SOLID\OpenClosed;
+namespace GSoares\SOLID\OpenClosed;
 
 class Vehicle 
 {

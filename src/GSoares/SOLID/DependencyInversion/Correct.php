@@ -7,7 +7,7 @@ desligar através da interface "PowerDevice". Agora "invertemos" a dependência 
 "Computer", ou seja, ambos dependem de abstração. Dessa fora a classe "Button" poderá travalhar com qualquer 
 "Power Device", não se preocupando como os detalhes do mesmo.
 */
-namespace Gsoares\SOLID\DependencyInversion;
+namespace GSoares\SOLID\DependencyInversion;
 
 interface PowerDevice
 {

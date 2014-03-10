@@ -13,7 +13,7 @@ A violação do LSP ocorre aqui, pois no método "resize" não é possível subs
 sem quebrar a regra, pois a atribuição de largura e altura teve a regra alterada na classe "Square". Todo o quadrado é 
 um retângulo, porém nem todo o retângulo é um quadrado.
 */
-namespace Gsoares\SOLID\LiskovSubstitution;
+namespace GSoares\SOLID\LiskovSubstitution;
 
 class Rectangle 
 {
