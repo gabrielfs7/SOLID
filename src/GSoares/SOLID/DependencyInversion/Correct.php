@@ -43,7 +43,9 @@ class Button
     
     public function turnOn()
     {
-        $this->powerDevice->on();
+        if (condition) { //some condition
+            $this->powerDevice->on();
+        }
     }
     
 }

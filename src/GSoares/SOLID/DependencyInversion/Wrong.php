@@ -19,8 +19,10 @@ class Button
      */
     private $computer;
 
-    public function on()
+    public function activate()
     {
-        $this->computer->power();
+        if (condition) { //some condition
+            $this->computer->on();
+        }
     }
 }
