@@ -15,4 +15,18 @@ Porque é uma ótima prática que irá melhorar a qualidade do seu software:
 * Proporcionando mais coesão ao código.
 * Melhorando a organização do seu código.
 * Eliminando dependências e acoplamentos desnecessárias.
-* Padrão conciso = fácil entendimento = fácil manutenção = maior produtividade = menor curva de aprendizado = maior produtividade = menos custo.
+* Padrão conciso:
+  * Fácil entendimento. 
+  * Fácil manutenção.
+  * Maior produtividade.
+  * Menor curva de aprendizado.
+  * Maior produtividade.
+  * Menos custo.
+
+* Atalhos 
+
+* [Single Responsability Principle (SRP)](src/GSoares/SOLID/SingleResponsability)
+* [Open/Closed Principle (OCP)](src/GSoares/SOLID/OpenClosed)
+* [Liskov Substitution Principle (LSP)](src/GSoares/SOLID/LiskovSubstitution)
+* [Interface Segregation Principle (ISP)](src/GSoares/SOLID/InterfaceSegregation)
+* [Dependency Inversion Principle (DIP)](src/GSoares/SOLID/DependencyInversion)
