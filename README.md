@@ -18,7 +18,6 @@ Porque é uma ótima prática que irá melhorar a qualidade do seu software:
 * Padrão conciso:
   * Fácil entendimento. 
   * Fácil manutenção.
-  * Maior produtividade.
   * Menor curva de aprendizado.
   * Maior produtividade.
   * Menos custo.
