@@ -10,4 +10,4 @@ termos de T, o comportamento de P é inalterado quando o1 é substituído por o2
 
 
 * Atender o LSP, significa que as classes derivadas são completamente substituíveis por suas classes-base, ou seja, 
-todo o código que utilizar a classe base será capaz de atender o OCP.
+todo o código que utilizar a classe base será capaz de atender o LSP.
